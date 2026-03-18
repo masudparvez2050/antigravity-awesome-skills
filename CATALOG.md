@@ -2,7 +2,7 @@
 
 Generated at: 2026-02-08T00:00:00.000Z
 
-Total skills: 1269
+Total skills: 1271
 
 ## architecture (82)
 
@@ -170,7 +170,7 @@ calculations | startup, business, analyst, market, opportunity | startup, busine
 | `warren-buffett` | Agente que simula Warren Buffett — o maior investidor do seculo XX e XXI, CEO da Berkshire Hathaway, discipulo de Benjamin Graham e socio intelectual de Char... | persona, investing, value-investing, business | persona, investing, value-investing, business, warren, buffett, agente, que, simula, maior, investidor, do |
 | `whatsapp-automation` | Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts. Always search tools first for c... | whatsapp | whatsapp, automation, automate, business, tasks, via, rube, mcp, composio, send, messages, upload |
 
-## data-ai (234)
+## data-ai (235)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -307,6 +307,7 @@ calculations | startup, business, analyst, market, opportunity | startup, busine
 | `frontend-dev-guidelines` | Opinionated frontend development standards for modern React + TypeScript applications. Covers Suspense-first data fetching, lazy loading, feature-based archi... | frontend, dev, guidelines | frontend, dev, guidelines, opinionated, development, standards, react, typescript, applications, covers, suspense, first |
 | `frontend-ui-dark-ts` | Build dark-themed React applications using Tailwind CSS with custom theming, glassmorphism effects, and Framer Motion animations. Use when creating dashboard... | frontend, ui, dark, ts | frontend, ui, dark, ts, themed, react, applications, tailwind, css, custom, theming, glassmorphism |
 | `geo-fundamentals` | Generative Engine Optimization for AI search engines (ChatGPT, Claude, Perplexity). | geo, fundamentals | geo, fundamentals, generative, engine, optimization, ai, search, engines, chatgpt, claude, perplexity |
+| `goldrush-api` | Query blockchain data across 100+ chains: wallet balances, token prices, transactions, DEX pairs, and real-time OHLCV streams via the GoldRush API by Covalent. | blockchain, crypto, web3, api, defi, wallet, multi-chain | blockchain, crypto, web3, api, defi, wallet, multi-chain, goldrush, query, data, 100, chains |
 | `google-analytics-automation` | Automate Google Analytics tasks via Rube MCP (Composio): run reports, list accounts/properties, funnels, pivots, key events. Always search tools first for cu... | google, analytics | google, analytics, automation, automate, tasks, via, rube, mcp, composio, run, reports, list |
 | `google-sheets-automation` | Read and write Google Sheets spreadsheets - get content, update cells, append rows, fetch specific ranges,
 search for spreadsheets, and view metadata. Use wh... | google, sheets | google, sheets, automation, read, write, spreadsheets, get, content, update, cells, append, rows |
@@ -1078,7 +1079,7 @@ distri... | makepad, deployment | makepad, deployment, critical, packaging, trig
 | `workflow-automation` | Workflow automation is the infrastructure that makes AI agents reliable. Without durable execution, a network hiccup during a 10-step payment flow means lost... |  | automation, infrastructure, makes, ai, agents, reliable, without, durable, execution, network, hiccup, during |
 | `x-twitter-scraper` | X (Twitter) data platform skill — tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, monitoring, webhooks, 19 extraction too... | [twitter, x-api, scraping, mcp, social-media, data-extraction, giveaway, monitoring, webhooks] | [twitter, x-api, scraping, mcp, social-media, data-extraction, giveaway, monitoring, webhooks], twitter, scraper, data |
 
-## security (150)
+## security (151)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -1177,6 +1178,7 @@ distri... | makepad, deployment | makepad, deployment, critical, packaging, trig
 | `odoo-l10n-compliance` | Country-specific Odoo localization: tax configuration, e-invoicing (CFDI, FatturaPA, SAF-T), fiscal reporting, and country chart of accounts setup. | odoo, l10n, compliance | odoo, l10n, compliance, country, specific, localization, tax, configuration, invoicing, cfdi, fatturapa, saf |
 | `odoo-security-rules` | Expert in Odoo access control: ir.model.access.csv, record rules (ir.rule), groups, and multi-company security patterns. | odoo, security, rules | odoo, security, rules, access, control, ir, model, csv, record, rule, groups, multi |
 | `openapi-spec-generation` | Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patterns. Use when creating API documentation, generating SDKs... | openapi, spec, generation | openapi, spec, generation, generate, maintain, specifications, code, first, specs, validation, creating, api |
+| `openclaw-github-repo-commander` | 7-stage super workflow for GitHub repo audit, cleanup, PR review, and competitor analysis | github, git, repository, audit, cleanup, workflow, devtools, automation, code-review, security | github, git, repository, audit, cleanup, workflow, devtools, automation, code-review, security, openclaw, repo |
 | `payment-integration` | Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing paym... | payment, integration | payment, integration, integrate, stripe, paypal, processors, checkout, flows, subscriptions, webhooks, pci, compliance |
 | `pci-compliance` | Implement PCI DSS compliance requirements for secure handling of payment card data and payment systems. Use when securing payment processing, achieving PCI c... | pci, compliance | pci, compliance, dss, requirements, secure, handling, payment, card, data, securing, processing, achieving |
 | `pentest-checklist` | This skill should be used when the user asks to "plan a penetration test", "create a security assessment checklist", "prepare for penetration testing", "defi... | pentest, checklist | pentest, checklist, skill, should, used, user, asks, plan, penetration, test, security, assessment |

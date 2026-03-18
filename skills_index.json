@@ -4435,9 +4435,9 @@
     "category": "uncategorized",
     "name": "devcontainer-setup",
     "description": "Creates devcontainers with Claude Code, language-specific tooling (Python/Node/Rust/Go), and persistent volumes. Use when adding devcontainer support to a project, setting up isolated development environments, or configuring sandboxed Claude Code workspaces.",
-    "risk": "unknown",
-    "source": "unknown",
-    "date_added": null
+    "risk": "safe",
+    "source": "vibeship-spawner-skills (Apache 2.0)",
+    "date_added": "2026-03-06"
   },
   {
     "id": "development",
@@ -6078,6 +6078,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "goldrush-api",
+    "path": "skills/goldrush-api",
+    "category": "blockchain",
+    "name": "goldrush-api",
+    "description": "Query blockchain data across 100+ chains: wallet balances, token prices, transactions, DEX pairs, and real-time OHLCV streams via the GoldRush API by Covalent.",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-03-17"
   },
   {
     "id": "google-analytics-automation",
@@ -8678,6 +8688,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "openclaw-github-repo-commander",
+    "path": "skills/openclaw-github-repo-commander",
+    "category": "development-and-testing",
+    "name": "openclaw-github-repo-commander",
+    "description": "7-stage super workflow for GitHub repo audit, cleanup, PR review, and competitor analysis",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-03-18"
   },
   {
     "id": "oral-health-analyzer",
