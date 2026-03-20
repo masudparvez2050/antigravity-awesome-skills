@@ -5865,9 +5865,9 @@
     "category": "security",
     "name": "gha-security-review",
     "description": "Find exploitable vulnerabilities in GitHub Actions workflows. Every finding MUST include a concrete exploitation scenario \u2014 if you can't build the attack, don't report it.",
-    "risk": "unknown",
+    "risk": "safe",
     "source": "community",
-    "date_added": null
+    "date_added": "2026-03-16"
   },
   {
     "id": "git-advanced-workflows",
