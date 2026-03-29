@@ -1,5 +1,19 @@
 # Maintenance Walkthrough - 2026-03-29
 
+- Re-triaged the full 2026-03-15 security finding set against current `main` and wrote a fresh current-head report in `docs/maintainers/security-findings-triage-2026-03-29-refresh.md`.
+- Kept the old `2026-03-15` markdown/CSV as historical baseline input, preserved the smaller `2026-03-29` addendum as a transition note, and pointed both docs at the new refresh as the current source of truth.
+- The refreshed triage currently lands at:
+  - `0` findings still present and exploitable
+  - `0` findings still present but low practical risk
+  - `26` obsolete/not reproducible on current HEAD
+  - `7` duplicates
+- The refresh folds in the hardening shipped today and earlier in the session:
+  - symlink/path safety in maintainer/install/web copy flows
+  - frontmatter parser robustness
+  - removal of shared frontend star writes
+  - secure Office unpack behavior
+  - migration away from predictable `/tmp` state files
+
 - Fixed the remaining production/documentation drift introduced by the web-app and CI hardening work:
   - clarified that the hosted GitHub Pages app runs in static public-catalog mode
   - documented that `Sync Skills` is development-only unless explicitly enabled in local maintainer runs
