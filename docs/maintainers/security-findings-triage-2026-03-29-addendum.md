@@ -3,6 +3,9 @@
 This addendum updates the 2026-03-15 baseline after the follow-up hardening
 work shipped on `main`.
 
+For the full current-head re-triage, use
+[`security-findings-triage-2026-03-29-refresh.md`](security-findings-triage-2026-03-29-refresh.md).
+
 ## Corrected / Updated Findings
 
 - Finding `1` / `7` (`tools/scripts/sync_microsoft_skills.py`)
