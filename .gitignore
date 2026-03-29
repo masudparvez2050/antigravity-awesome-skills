@@ -43,3 +43,7 @@ apps/web-app/public/skills.json
 
 # Local duplicate/download artifacts
 skills/spline-3d-integration/*.zip
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
+config.bat
